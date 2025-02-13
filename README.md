@@ -19,8 +19,8 @@ The **URL Summarizer API** is a web application that extracts text from a given 
 ## 📥 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/rikta5/url-summarizer.git
-cd url-summarizer
+git clone https://github.com/rikta5/URLSummarizer.git
+cd URLSummarizer
 ```
 
 ### 2️⃣ Create a Virtual Environment & Install Dependencies
